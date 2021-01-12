@@ -1,4 +1,4 @@
-# Cross-Recessed-Screw_Deep-Learning-Datasets
+# Cross-Recessed-Screw Deep Learning Datasets
 This repository contains the following cross-recessed-screw (CRS) datasets for use with the Tiny-You Only Look Once v2 (Tiny-YOLO v2) deep learning object detection system:
 
 1) Training dataset: 900 images and corresponding ground-truth annotation files of CRS embedded in general hardware.
