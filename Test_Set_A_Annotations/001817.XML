@@ -1,0 +1,49 @@
+<annotation>
+  <folder>C:/Users/Dan/Desktop/NASA RESEARCH/CRS_Master_2000/CRS_400_VAL</folder>
+  <filename>001817.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>3036</width>
+    <height>4048</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1605</xmin>
+      <ymin>1126</ymin>
+      <xmax>1810</xmax>
+      <ymax>1297</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1578</xmin>
+      <ymin>2149</ymin>
+      <xmax>1782</xmax>
+      <ymax>2342</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>992</xmin>
+      <ymin>1369</ymin>
+      <xmax>1108</xmax>
+      <ymax>1491</ymax>
+    </bndbox>
+  </object>
+</annotation>
+cross_recessed_screw 1605 1126 1810 1297
+cross_recessed_screw 1578 2149 1782 2342
+cross_recessed_screw 992 1369 1108 1491
