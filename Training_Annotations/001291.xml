@@ -1,0 +1,46 @@
+<annotation>
+  <folder>C:/Users/Dan/Desktop/NASA RESEARCH/CRS_Master_2000/CRS_1600_TRAIN</folder>
+  <filename>001291.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>3036</width>
+    <height>4048</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2440</xmin>
+      <ymin>1325</ymin>
+      <xmax>2689</xmax>
+      <ymax>1496</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2064</xmin>
+      <ymin>1408</ymin>
+      <xmax>2330</xmax>
+      <ymax>1629</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1053</xmin>
+      <ymin>1679</ymin>
+      <xmax>1301</xmax>
+      <ymax>1878</ymax>
+    </bndbox>
+  </object>
+</annotation>
