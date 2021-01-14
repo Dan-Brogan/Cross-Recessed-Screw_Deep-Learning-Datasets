@@ -1,0 +1,22 @@
+<annotation>
+  <folder>C:/Users/Dan/Desktop/Desktop Shortcuts/NASA RI Space Grant Research/Test_Set_C_90</folder>
+  <filename>000040.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>3036</width>
+    <height>4048</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1118</xmin>
+      <ymin>732</ymin>
+      <xmax>1385</xmax>
+      <ymax>986</ymax>
+    </bndbox>
+  </object>
+</annotation>
