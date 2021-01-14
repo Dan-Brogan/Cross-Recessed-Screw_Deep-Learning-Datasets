@@ -1,0 +1,34 @@
+<annotation>
+  <folder>C:/Users/Dan/Desktop/NASA RESEARCH/SSH Results/Test_Set_B/Test_Set_B_90</folder>
+  <filename>000052.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>3036</width>
+    <height>4048</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1196</xmin>
+      <ymin>1480</ymin>
+      <xmax>1357</xmax>
+      <ymax>1640</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cross_recessed_screw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1335</xmin>
+      <ymin>3448</ymin>
+      <xmax>1495</xmax>
+      <ymax>3614</ymax>
+    </bndbox>
+  </object>
+</annotation>
